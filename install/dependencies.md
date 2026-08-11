@@ -200,7 +200,7 @@ cmake ../root
 make -j8
 ```
 
-Homebrew can be used to install most dependencies.
+Homebrew can be used to install most dependencies. Check out all required packages in the [official formula](https://github.com/Homebrew/homebrew-core/blob/main/Formula/r/root.rb).
 
 ## Windows
 
